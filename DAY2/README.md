@@ -7,3 +7,4 @@
 **Part2**  
 1. SWAP Test
 2. Hadamard Test
+3. Deutsch-Jozsa Algorithm
